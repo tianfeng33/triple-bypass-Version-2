@@ -1,0 +1,5 @@
+# Things to be tested further
+I need help verfiging the pulldown for each board to revise the silk screen on the back. 
+GOAC va4 likely needs adjusting to balence the sega cd input.  It might require a swap of resistors on the psg channel.  
+Currently testing a value of 86.6k on FM and 137k on PSG
+This only impacts cd audio balence at the moment
